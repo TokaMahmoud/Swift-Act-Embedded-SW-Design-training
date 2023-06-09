@@ -1,0 +1,14 @@
+.\objects\eventrecorder.o: C:\Users\ahmedGamal\AppData\Local\Arm\Packs\Keil\ARM_Compiler\1.6.3\Source\EventRecorder.c
+.\objects\eventrecorder.o: .\RTE\_STM32F411\RTE_Components.h
+.\objects\eventrecorder.o: C:\Users\ahmedGamal\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+.\objects\eventrecorder.o: C:\Users\ahmedGamal\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h
+.\objects\eventrecorder.o: ..\source\Core\core_cm4.h
+.\objects\eventrecorder.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\eventrecorder.o: ..\source\Core\cmsis_version.h
+.\objects\eventrecorder.o: ..\source\Core\cmsis_compiler.h
+.\objects\eventrecorder.o: ..\source\Core\cmsis_armcc.h
+.\objects\eventrecorder.o: ..\source\Core\mpu_armv7.h
+.\objects\eventrecorder.o: C:\Users\ahmedGamal\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+.\objects\eventrecorder.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\eventrecorder.o: C:\Users\ahmedGamal\AppData\Local\Arm\Packs\Keil\ARM_Compiler\1.6.3\Include\EventRecorder.h
+.\objects\eventrecorder.o: .\RTE\Compiler\EventRecorderConf.h
